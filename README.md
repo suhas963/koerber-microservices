@@ -12,8 +12,9 @@
 - JUnit 5, Mockito
 
 ## How to Run
-1. Start inventory-service
-2. Start order-service
+1. Install Maven dependencies in both inventory-service and order-service
+2. Start inventory-service
+3. Start order-service
 
 ## Steps
 1. Check inventory for product 1001 by using endpoint GET - http://localhost:8081/inventory/1001
